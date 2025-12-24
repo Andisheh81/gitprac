@@ -27,5 +27,5 @@ elif height<2.00 and height>1.50:
 elif height<1.50:
     print("You are a bit short!")
 if fname=="":
-    fname="guest"#"""
+    fname="guest""""
 
