@@ -1,5 +1,5 @@
 ## the power user profile creator
-fname=input("Please enter your first name:")
+"""fname=input("Please enter your first name:")
 lname=input("Please enter your last name:")
 byear=input("Please enter your Birth year:")
 name=fname+" "+lname
@@ -27,5 +27,5 @@ elif height<2.00 and height>1.50:
 elif height<1.50:
     print("You are a bit short!")
 if fname=="":
-    fname="guest"
+    fname="guest"#"""
 
